@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "description": "A simple color picker extension. Enter a color name or hex value and the extension will change the background color of the page.",
+  "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Color Picker"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
